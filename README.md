@@ -26,3 +26,11 @@ https://developer.mozilla.org/sv-SE/docs/Web/JavaScript/Guide/Loops_and_iteratio
 
 ## Operator precendece
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+## Local Storage
+https://www.w3schools.com/jsref/prop_win_localstorage.asp
+
+## DOM & Events
+https://www.w3schools.com/jsref/dom_obj_document.asp
+https://www.w3schools.com/jsref/dom_obj_all.asp
+https://www.w3schools.com/jsref/dom_obj_event.asp
